@@ -1,0 +1,34 @@
+_repo: We-Were-There-at-the-Normandy-Invasion_66577
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Royce, Ralph
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '53875'
+    url: http://www.gutenberg.org/2009/agents/53875
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Royce
+creator:
+  author:
+    agent_name: Knight, Clayton
+    birthdate: 1891
+    deathdate: 1969
+    gutenberg_agent_id: '53874'
+    url: http://www.gutenberg.org/2009/agents/53874
+    wikipedia: https://en.wikipedia.org/wiki/Clayton_Knight
+description: ''
+gutenberg_issued: '2021-10-20'
+identifiers:
+  gutenberg: '66577'
+  lccn: '56005389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: We were there books; 5.
+subjects:
+- !lcsh 'World War, 1939-1945 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: We Were There at the Normandy Invasion
+url: http://www.gutenberg.org/ebooks/66577
