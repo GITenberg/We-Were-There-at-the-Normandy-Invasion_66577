@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53875'
     url: http://www.gutenberg.org/2009/agents/53875
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Royce
+covers:
+- cover_type: archival
+  image_path: 66577-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, Clayton
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53874
     wikipedia: https://en.wikipedia.org/wiki/Clayton_Knight
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66577#We-Were-There-at-the-Normandy-Invasion
 gutenberg_issued: '2021-10-20'
 identifiers:
   gutenberg: '66577'
